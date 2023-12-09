@@ -1,0 +1,23 @@
+Other ids:
+Base_elves
+parenttemplateid - 5b60061e-df2d-4c4f-bfe3-2faf517d581d
+charactervisualresourceid - 2d897afa-e1cd-24aa-09f2-da975bc60cf6
+
+base_elves_female:
+parenttemplateid - 0bbd332f-747c-406c-b397-d2f607a49900
+charactervisualresourceid - 763f7f7d-0e5b-de5a-309c-8f024c714ed6
+
+Elves_Female_Wood_Player:
+parenttemplateid - 7e0ffe5c-8eb2-4ed1-926a-a6326c45cffd
+charactervisualresourceid - 69c6d55e-2faa-16a0-f0bd-7e3dce4529cf
+
+Elves_Female_Drow_Lolth_Player
+parenttemplateid - eda0ef2a-a1c5-455e-8805-e1f95c56113d
+charactervisualresourceid - 187188d8-929a-d800-d5c3-33453a8cc25a
+
+Elves_Female_High_Player:
+parenttemplateid - 15daa7bd-9af6-4aea-8d61-a82dbf395670
+charactervisualresourceid - d67bd924-3c1f-c33a-5298-feca5bbdc284
+
+BaseVisual - c05cb1dc-81eb-647b-3e03-e9bf4301fcc4
+BodySetVisual - db6e5918-8514-4dcc-8363-e8fd3c50cce5

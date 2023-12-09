@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="306ac82c-52b4-4030-8819-b7679be49918" />
+					<attribute id="Name" type="LSString" value="Human_Female_Aasimar_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" /> <!-- Inherit from base_elves_female -->
+					<attribute id="Icon" type="FixedString" value="d609a89b-713a-09ed-3ca4-ce62b1fcac89-_(Icon_Harpy)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="763f7f7d-0e5b-de5a-309c-8f024c714ed6" /> <!-- Inherit from base_elves_female -->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<children>
+					<node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="18e053a8-3887-4ffa-1593-128e7285a4e4" />
+                </node>
+              </children>
+            </node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

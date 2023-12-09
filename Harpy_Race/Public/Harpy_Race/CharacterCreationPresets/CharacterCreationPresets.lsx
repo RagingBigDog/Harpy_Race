@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="47" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="CharacterCreationPreset">
+					<attribute id="BodyShape" type="uint8" value="0" />
+					<attribute id="BodyType" type="uint8" value="1" />
+					<attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A" />
+					<attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B" />
+					<attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A" />
+					<attribute id="RaceUUID" type="guid" value="19965d7b-8bb1-457e-8ea5-99ff179d22a4" />
+					<attribute id="RootTemplate" type="guid" value="4bc46f02-f0db-4222-8adb-1b9514de533f" />
+					<attribute id="UUID" type="guid" value="f7b59d6c-6a91-497c-9f22-7036377c8f07" />
+					<attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-2480-6242a94d6e97" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

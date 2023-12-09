@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49"/>
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="Ability(Constitution,1);ActionResource(CL_RacialProficiency,2,0)"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="CL_Harpy"/>
+          <attribute id="PassivesAdded" type="LSString" value="CL_Passive_NecroticResistance;CL_Passive_KeenSenses"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(9c569a7d-34e9-493e-b9c8-aeca038d5ee5,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="5b2ca83d-66a5-40d1-9c0f-b52bfdc0264d"/>
+          <attribute id="UUID" type="guid" value="77793ed2-d86f-4ad8-90a8-e2cda4b4cb4d"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="CL_Harpy"/>
+          <attribute id="PassivesAdded" type="LSString" value="CL_Passive_RavenQueenBlessing"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value=""/>
+          <attribute id="TableUUID" type="guid" value="5b2ca83d-66a5-40d1-9c0f-b52bfdc0264d"/>
+          <attribute id="UUID" type="guid" value="dec95f83-06d5-40bf-b307-c79b0e61a175"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
